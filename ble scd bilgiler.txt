@@ -1,0 +1,8 @@
+SCD110 bluetooth
+
+18:004:ED:62:5B:AC 
+SCD-7260957000191DA
+
+18:004:ED:62:5B:B6 MGdeki
+
+https://github.com/esen2202/Scd110_Ble_Communication.git
